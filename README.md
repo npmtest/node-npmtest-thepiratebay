@@ -1,4 +1,7 @@
-# test coverage for  [thepiratebay (v1.4.0)](http://github.com/t3chnoboy/thepiratebay)  [![npm package](https://img.shields.io/npm/v/npmtest-thepiratebay.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-thepiratebay) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-thepiratebay.svg)](https://travis-ci.org/npmtest/node-npmtest-thepiratebay)
+# npmtest-thepiratebay
+
+#### basic test coverage for  [thepiratebay (v1.4.0)](http://github.com/t3chnoboy/thepiratebay)  [![npm package](https://img.shields.io/npm/v/npmtest-thepiratebay.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-thepiratebay) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-thepiratebay.svg)](https://travis-ci.org/npmtest/node-npmtest-thepiratebay)
+
 #### The pirate bay client
 
 [![NPM](https://nodei.co/npm/thepiratebay.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/thepiratebay)
